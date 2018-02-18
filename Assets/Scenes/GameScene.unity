@@ -940,7 +940,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 881be9abadb3f3740b66f3e83aa537e8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidade: 2.09
+  velocidade: 5.5
   bola: {fileID: 1418243201}
   limiteEsquerdo: -3.674535
   limiteDireito: 3.674535
